@@ -1,4 +1,4 @@
-# Blog
+# Order Receiving System
 
 ## Project Description
 This is a ASP.Net Core API based project where React JS was used as Front end & SSMS as database management system. In this project, a restaurant can take customer favorite order & place it into the database. By this project, restaurant can see order history, edit & delete previous order. So in any change of order, restaurant can response instantly.
